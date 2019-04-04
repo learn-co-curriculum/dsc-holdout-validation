@@ -28,7 +28,7 @@ In this strategy, we simply split the data into two sets in a way that our obser
 
 For simple hold-out validation testing, data is split into two groups i.e. Training set and Testing set as shown below
 
-![](tt.png)
+![](images/tt.png)
 
 ### Train Dataset 
 
